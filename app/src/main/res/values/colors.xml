@@ -19,4 +19,8 @@
     <color name="_bg__sport_color">#DFDFDF</color>
     <color name="rectangle_29_color">#FFFFFF</color>
     <color name="sport_ek1_color">#424242</color>
+
+    <color name="_bg__food_color">#DFDFDF</color>
+
+    <color name="diet_color">#393939</color>
 </resources>

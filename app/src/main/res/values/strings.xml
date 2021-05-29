@@ -28,12 +28,31 @@
     <string name="maintain_weight">Maintain Weight</string>
     <string name="gain_weight">Gain Weight</string>
 
-    <string name="ek_img_content">ExportKit Image</string>
     <string name="legs_string">Legs</string>
     <string name="arms_string">Arms</string>
     <string name="abs_string">Abs</string>
     <string name="full_body_string">Full Body</string>
     <string name="sport_ek1_string">Sport</string>
     <string name="abs1_2">abs1_2</string>
+   
+
+    <string name="start_string">START</string>
+
+    <string name="lunch_string">Lunch</string>
+    <string name="breakfast_string">Breakfast</string>
+    <string name="dinner_string">Dinner</string>
+    <string name="snacks_string">Snacks</string>
+    <string name="diet_string">Diet</string>
+    <string name="daily_calories_1600_string">Daily calories 1600</string>
     <string name="background_1">background_1</string>
+    <string name="arrow_1">arrow_1</string>
+    <string name="logotextg_1">logotextg_1</string>
+    <string name="lunch_1">lunch_1</string>
+    <string name="sleepg_2">sleepg_2</string>
+    <string name="habitg_3">habitg_3</string>
+    <string name="foodg_3">foodg_3</string>
+    <string name="sportg_3">sportg_3</string>
+    <string name="egg_1">egg_1</string>
+    <string name="salmon_1">salmon_1</string>
+    <string name="snacks_1">snacks_1</string>
 </resources>

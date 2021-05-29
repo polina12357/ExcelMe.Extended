@@ -355,6 +355,7 @@
             android:layout_height="wrap_content"
             android:backgroundTint="#366855"
             android:text="@string/next"
+            android:onClick ="Next"
             android:textSize="28dp"
             app:layout_constraintBottom_toBottomOf="@+id/nav_host_fragment_content_main"
             app:layout_constraintEnd_toEndOf="parent"
