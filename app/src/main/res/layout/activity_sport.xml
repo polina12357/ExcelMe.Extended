@@ -1,0 +1,351 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		excelme_design
+	 *	@date 		1622291072901
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/excelme_design"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" >
+
+			<View android:id="@+id/_bg__sport"
+				android:background="@drawable/_bg__sport_shape"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="411dp"
+				android:layout_height="823dp" />
+
+			<ImageView android:id="@+id/background_1"
+				android:src="@drawable/background_1"
+				android:contentDescription="@string/background_1"
+				android:layout_marginStart="1dp"
+				android:layout_marginTop="-9dp"
+				android:layout_width="410dp"
+				android:layout_height="823dp" />
+
+			<View android:id="@+id/rectangle_29"
+				android:background="@drawable/rectangle_29_shape"
+				android:layout_marginStart="83dp"
+				android:layout_marginTop="432dp"
+				android:layout_width="326dp"
+				android:layout_height="163dp" />
+
+			<View android:id="@+id/rectangle_30"
+				android:background="@drawable/rectangle_29_shape"
+				android:layout_marginStart="-2dp"
+				android:layout_marginTop="221dp"
+				android:layout_width="326dp"
+				android:layout_height="163dp" />
+
+
+			<RelativeLayout android:id="@+id/main_ek1"
+				android:layout_marginTop="754dp"
+				android:layout_marginStart="-1dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+			</RelativeLayout>
+
+
+			<RelativeLayout
+				android:id="@+id/food"
+				android:onClick="Legs"
+				android:layout_width="130dp"
+				android:layout_height="130dp"
+				android:layout_alignParentStart="true"
+				android:layout_alignParentTop="true"
+				android:layout_marginStart="176dp"
+				android:layout_marginTop="237dp"
+				android:background="@drawable/next_button_background"
+				android:elevation="6dp">
+
+				<TextView
+					android:id="@+id/legs"
+					android:layout_width="80dp"
+					android:layout_height="56dp"
+					android:layout_marginStart="32dp"
+					android:layout_marginTop="77dp"
+					android:fontFamily="@font/roboto"
+					android:text="@string/legs_string"
+					android:textColor="@color/rectangle_29_color"
+					android:textSize="30sp" />
+
+				<ImageView
+					android:id="@+id/legs_1"
+					android:layout_width="126dp"
+					android:layout_height="116dp"
+					android:layout_alignParentStart="true"
+					android:layout_marginStart="-20dp"
+					android:layout_alignParentTop="true"
+					android:layout_marginTop="-30dp"
+					android:src="@drawable/legs_1"
+					android:elevation="4dp"/>
+
+			</RelativeLayout>
+
+			<ImageView android:id="@+id/leg_1"
+				android:src="@drawable/leg_1"
+				android:contentDescription="leg_1"
+				android:layout_marginStart="110dp"
+				android:layout_marginTop="427dp"
+				android:layout_width="60dp"
+				android:layout_height="98dp" />
+
+
+			<RelativeLayout android:id="@+id/calendar"
+				android:layout_marginTop="716dp"
+				android:layout_marginStart="41dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+			</RelativeLayout>
+
+
+			<RelativeLayout
+				android:onClick="Arms"
+				android:id="@+id/sport"
+				android:layout_width="130dp"
+				android:layout_height="130dp"
+				android:layout_alignParentStart="true"
+				android:layout_alignParentTop="true"
+				android:layout_marginStart="20dp"
+				android:layout_marginTop="235dp"
+				android:background="@drawable/next_button_background"
+				android:elevation="6dp">
+
+
+				<ImageView
+					android:id="@+id/arm_1"
+					android:layout_width="59dp"
+					android:layout_height="59dp"
+					android:layout_alignParentStart="true"
+					android:layout_marginStart="35dp"
+					android:layout_alignParentTop="true"
+					android:layout_marginTop="13dp"
+					android:src="@drawable/arm_1"
+					android:elevation="4dp"/>
+
+
+				<TextView
+					android:id="@+id/arms"
+					android:layout_width="112dp"
+					android:layout_height="46dp"
+					android:layout_alignParentStart="true"
+					android:layout_alignParentTop="true"
+					android:layout_marginStart="29dp"
+					android:layout_marginTop="72dp"
+					android:fontFamily="@font/roboto"
+					android:gravity="top"
+					android:singleLine="true"
+					android:layout_marginBottom="2dp"
+					android:text="@string/arms_string"
+					android:textSize="30sp"
+					android:textColor="@color/rectangle_29_color"
+					/>
+
+			</RelativeLayout>
+
+
+			<RelativeLayout
+				android:id="@+id/habits_ek1"
+				android:onClick="Abs"
+				android:layout_width="130dp"
+				android:layout_height="130dp"
+				android:layout_alignParentStart="true"
+				android:layout_alignParentTop="true"
+				android:layout_marginStart="108dp"
+				android:layout_marginTop="452dp"
+				android:background="@drawable/next_button_background"
+				android:elevation="4dp">
+
+				<TextView
+					android:id="@+id/abs"
+					android:layout_width="67dp"
+					android:layout_height="56dp"
+					android:layout_marginStart="39dp"
+					android:layout_marginTop="75dp"
+					android:fontFamily="@font/roboto"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="4"
+					android:shadowRadius="4"
+					android:text="@string/abs_string"
+					android:textColor="@color/rectangle_29_color"
+					android:textSize="30sp" />
+
+				<ImageView
+					android:id="@+id/abs1_2"
+					android:layout_width="88dp"
+					android:layout_height="89dp"
+					android:layout_marginStart="21dp"
+					android:layout_marginTop="0dp"
+					android:contentDescription="@string/abs1_2"
+					android:src="@drawable/abs1_2" />
+
+			</RelativeLayout>
+
+			<RelativeLayout
+				android:id="@+id/sleep"
+				android:onClick="FullBody"
+				android:layout_width="130dp"
+				android:layout_height="130dp"
+				android:layout_alignParentLeft="true"
+				android:layout_alignParentTop="true"
+				android:layout_marginLeft="256dp"
+				android:layout_marginTop="452dp"
+				android:background="@drawable/next_button_background"
+				android:elevation="6dp">
+
+				<TextView
+					android:id="@+id/full_body"
+					android:layout_width="149dp"
+					android:layout_height="57dp"
+					android:layout_gravity="center_horizontal|center"
+					android:layout_marginLeft="-6dp"
+					android:layout_marginTop="76dp"
+					android:fontFamily="@font/roboto"
+					android:gravity="center"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="4"
+					android:shadowRadius="4"
+					android:text="@string/full_body_string"
+					android:textColor="@color/rectangle_29_color"
+					android:textSize="28sp" />
+
+				<ImageView
+					android:id="@+id/person_1"
+					android:layout_width="110dp"
+					android:layout_height="63dp"
+					android:layout_marginStart="10dp"
+					android:layout_marginTop="13dp"
+					android:contentDescription="person_1"
+					android:src="@drawable/person_1" />
+
+			</RelativeLayout>
+
+
+			<RelativeLayout
+				android:id="@+id/mainbottom"
+				android:layout_width="412dp"
+				android:layout_height="69dp"
+				android:layout_alignTop="@id/rectangle_29"
+
+				android:layout_marginTop="231dp"
+				android:background="@drawable/main"
+				android:clipToOutline="true"
+				android:elevation="4dp"
+				android:gravity="bottom">
+
+				<ImageView
+					android:id="@+id/sleepg_2"
+					android:onClick="Sleep"
+					android:layout_width="60dp"
+					android:layout_height="58dp"
+					android:layout_marginStart="316dp"
+					android:layout_marginTop="759dp"
+					android:contentDescription="sleepg_2"
+					android:src="@drawable/sleepg_2" />
+
+				<ImageView
+					android:id="@+id/habitg_3"
+					android:onClick="Habit"
+					android:layout_width="62dp"
+					android:layout_height="60dp"
+					android:layout_marginStart="229dp"
+					android:layout_marginTop="759dp"
+					android:contentDescription="habitg_3"
+					android:src="@drawable/habitg_3" />
+
+				<ImageView
+					android:id="@+id/foodg_3"
+					android:onClick="Food"
+					android:layout_width="62dp"
+					android:layout_height="61dp"
+					android:layout_marginStart="141dp"
+					android:layout_marginTop="761dp"
+					android:contentDescription="foodg_3"
+					android:src="@drawable/foodg_3" />
+
+
+				<ImageView
+					android:id="@+id/sportg_3"
+
+					android:layout_width="88dp"
+					android:layout_height="73.47dp"
+					android:layout_marginStart="34dp"
+					android:layout_marginTop="755dp"
+					android:contentDescription="sportg_3"
+					android:src="@drawable/sportg_3" />
+			</RelativeLayout>
+
+			<TextView
+				android:id="@+id/sport_ek1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignBottom="@+id/calendar"
+				android:layout_alignParentTop="true"
+				android:layout_alignParentEnd="true"
+				android:layout_marginStart="12dp"
+				android:layout_marginTop="91dp"
+				android:layout_marginEnd="298dp"
+				android:layout_marginBottom="572dp"
+				android:fontFamily="@font/roboto"
+				android:text="@string/sport_ek1_string"
+				android:textColor="@color/dateTextColour"
+				android:textSize="40sp" />
+
+
+
+			<RelativeLayout
+				android:id="@+id/main"
+				android:layout_width="412dp"
+				android:layout_height="69dp"
+				android:background="@drawable/main"
+				android:clipToOutline="true"
+				android:elevation="4dp">
+				<ImageView
+					android:id="@+id/arrow_1"
+					android:layout_width="75dp"
+					android:layout_height="33dp"
+					android:layout_alignParentEnd="true"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="18dp"
+					android:layout_marginEnd="315dp"
+					android:contentDescription="arrow_1"
+					android:src="@drawable/arrow_1"
+					android:onClick="Back"/>
+
+				<ImageView
+					android:id="@+id/logotextg_1"
+					android:layout_width="186dp"
+					android:layout_height="62dp"
+					android:layout_marginStart="113dp"
+					android:layout_marginTop="10dp"
+					android:contentDescription="logotextg_1"
+					android:src="@drawable/logotextg_1" />
+
+			</RelativeLayout>
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

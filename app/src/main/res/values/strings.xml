@@ -10,4 +10,30 @@
     <string name="settingsContentDescription">Settings</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="registry_hello">Tell us about yourself!</string>
+    <string name="your_name">Your name:</string>
+    <string name="sex">Sex: </string>
+    <string name="age">Age:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="what_s_your_goal">What’s your goal?</string>
+    <string name="your_activity_level">Your activity level?</string>
+    <string name="female">Female</string>
+    <string name="non">Non</string>
+    <string name="male">Male</string>
+    <string name="name">Name</string>
+    <string name="inactive">Inactive</string>
+    <string name="super_active">Super Active</string>
+    <string name="loss_weight">Loss Weight</string>
+    <string name="maintain_weight">Maintain Weight</string>
+    <string name="gain_weight">Gain Weight</string>
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="legs_string">Legs</string>
+    <string name="arms_string">Arms</string>
+    <string name="abs_string">Abs</string>
+    <string name="full_body_string">Full Body</string>
+    <string name="sport_ek1_string">Sport</string>
+    <string name="abs1_2">abs1_2</string>
+    <string name="background_1">background_1</string>
 </resources>
